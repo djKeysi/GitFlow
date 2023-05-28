@@ -6,3 +6,5 @@ def str_title(str):
     """функция делает первую букву заглавной"""
     return str.title()
 
+def test():
+    pass
